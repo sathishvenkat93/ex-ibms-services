@@ -244,8 +244,8 @@ export class BillingService{
             port: 587, 
             secure: false, 
             auth: {
-                user: 'joshcreatives@outlook.com', 
-                pass: 'nikon@5300' 
+                user: 'your-email@address.com', 
+                pass: 'password@123' 
         }
         });
     
